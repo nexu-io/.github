@@ -24,7 +24,7 @@ That is what nexu builds. Local-first, web-deployable, BYOK at every layer. **Ap
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ 2.7k
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ 10.2k
 
 The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **19 composable Skills** + **71 brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
 
