@@ -52,11 +52,11 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 </td>
 <td width="50%" valign="top">
 
-### 🔧 <a href="https://github.com/nexu-io/harness-engineering-guide">harness-engineering-guide</a> · ⭐ <!--stars:nexu-io/harness-engineering-guide-->194<!--/stars-->
+### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->3k<!--/stars-->
 
-The **practical guide to building AI agent harnesses** — agentic loop, tool registries, sandboxes, sub-agents, multi-agent orchestration, long-running designs. Real code in every article.
+**Programmatic video for coding agents** — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, **21 templates**, AI soundtrack. Apache-2.0, no per-render fees.
 
-🌐 <a href="https://harness-guide.com">harness-guide.com</a>
+🌐 <a href="https://open-design.ai/html-video">open-design.ai/html-video</a>
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ The **practical guide to building AI agent harnesses** — agentic loop, tool re
 - **Star the projects** that resonate — cheapest, loudest signal.
 - **Add a skill** — drop a `SKILL.md` folder and open a PR on <a href="https://github.com/nexu-io/open-design">open-design</a> or <a href="https://github.com/nexu-io/html-anything">html-anything</a>.
 - **Add a design system** — drop a `DESIGN.md` folder and open a PR.
-- **Write up your harness** — contribute to <a href="https://github.com/nexu-io/harness-engineering-guide">harness-engineering-guide</a>.
+- **Add a video template** — drop a template into <a href="https://github.com/nexu-io/html-video">html-video</a> and open a PR.
 
 Issues, PRs, and Discussions are open across every public repo.
 
