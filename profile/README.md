@@ -1,22 +1,23 @@
-<h1 align="center">nexu</h1>
+<h1 align="center">Open Design</h1>
 
 <p align="center">
-  <strong>The open-source stack for your AI coworker — your agent, our skills, real workflows.</strong>
+  <strong>The open-source alternative to Claude Design — local-first, BYOK, your agent ships real designs.</strong>
 </p>
 
 <p align="center">
-  <a href="https://nexu.io">🌐 nexu.io</a> &nbsp;·&nbsp;
+  <a href="https://open-design.ai">🌐 open-design.ai</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nexu-io/open-design">⭐ Star on GitHub</a> &nbsp;·&nbsp;
   <a href="https://x.com/nexudotio">𝕏 @nexudotio</a> &nbsp;·&nbsp;
   <a href="mailto:support@nexu.io">✉ support@nexu.io</a>
 </p>
 
 ---
 
-## Why this org exists
+## Why Open Design exists
 
 The strongest coding agents already live on your laptop. **Claude Code, Codex, Cursor Agent, Gemini CLI, OpenCode, Qwen** — all real, all yours, all BYOK. The missing piece isn't another agent runtime. It's the **open-source surface area** that turns those raw CLIs into a coworker that ships designs, joins your IM, runs skills, and remembers what happened yesterday.
 
-That is what nexu builds. Local-first, web-deployable, BYOK at every layer. **Apache-2.0 / MIT**, no telemetry, no lock-in.
+That is what we build. Local-first, web-deployable, BYOK at every layer. **Apache-2.0 / MIT**, no telemetry, no lock-in.
 
 ## What we ship
 
@@ -24,16 +25,16 @@ That is what nexu builds. Local-first, web-deployable, BYOK at every layer. **Ap
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ 49.2k
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->64.2k<!--/stars-->
 
-The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **19 composable Skills** + **71 brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
+The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **259+ composable Skills** + **142+ brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
 
 `pnpm dev:all` &rarr; magazine deck, mobile prototype, dashboard, docs page — sandboxed iframe preview, exported as HTML / PDF / PPTX / ZIP.
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ 4.5k
+### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->6.7k<!--/stars-->
 
 The **agentic HTML editor** — your local AI agent writes the HTML, you ship it. **75 Skills × 9 Surfaces** (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes). Sandboxed preview, 1-click export to WeChat / X / Zhihu / HTML / PNG.
 
@@ -44,14 +45,14 @@ Zero API key — runs on Claude Code / Cursor / Codex / Gemini / Copilot / OpenC
 <tr>
 <td width="50%" valign="top">
 
-### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ 3.0k
+### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.1k<!--/stars-->
 
 The **open-source desktop client** that connects your AI Agent to **WeChat · Feishu · Slack · Discord** in one click. Works with OpenClaw, Claude Code, Codex, GLM, MiniMax. Double-click install, OAuth or BYOK, local-first — your data never leaves your machine, your agent is on your phone 24/7.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 <a href="https://github.com/nexu-io/harness-engineering-guide">harness-engineering-guide</a> · ⭐ 128
+### 🔧 <a href="https://github.com/nexu-io/harness-engineering-guide">harness-engineering-guide</a> · ⭐ <!--stars:nexu-io/harness-engineering-guide-->194<!--/stars-->
 
 The **practical guide to building AI agent harnesses** — agentic loop, tool registries, sandboxes, sub-agents, multi-agent orchestration, long-running designs. Real code in every article.
 
@@ -80,4 +81,4 @@ Issues, PRs, and Discussions are open across every public repo.
 
 ---
 
-<p align="center"><sub>Built by the team at <a href="https://nexu.io">nexu</a> — <i>next to you</i>, by your AI coworker.<br>Apache-2.0 / MIT &nbsp;·&nbsp; <a href="mailto:support@nexu.io">support@nexu.io</a></sub></p>
+<p align="center"><sub>Open Design — <i>next to you</i>, by your AI coworker.<br>Apache-2.0 / MIT &nbsp;·&nbsp; <a href="mailto:support@nexu.io">support@nexu.io</a></sub></p>
