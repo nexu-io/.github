@@ -34,7 +34,7 @@ The **open-source alternative to Claude Design**. Local-first, web-deployable, B
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->7.2k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->7.3k<!--/stars-->
 
 The **agentic HTML editor** — your local AI agent writes the HTML, you ship it. **75 Skills × 9 Surfaces** (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes). Sandboxed preview, 1-click export to WeChat / X / Zhihu / HTML / PNG.
 
