@@ -25,7 +25,7 @@ That is what we build. Local-first, web-deployable, BYOK at every layer. **Apach
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->71.3k<!--/stars-->
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->71.4k<!--/stars-->
 
 The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **259+ composable Skills** + **142+ brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
 
@@ -45,14 +45,14 @@ Zero API key — runs on Claude Code / Cursor / Codex / Gemini / Copilot / OpenC
 <tr>
 <td width="50%" valign="top">
 
-### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.1k<!--/stars-->
+### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.2k<!--/stars-->
 
 The **open-source desktop client** that connects your AI Agent to **WeChat · Feishu · Slack · Discord** in one click. Works with OpenClaw, Claude Code, Codex, GLM, MiniMax. Double-click install, OAuth or BYOK, local-first — your data never leaves your machine, your agent is on your phone 24/7.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->3.5k<!--/stars-->
+### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->3.6k<!--/stars-->
 
 **Programmatic video for coding agents** — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, **21 templates**, AI soundtrack. Apache-2.0, no per-render fees.
 
