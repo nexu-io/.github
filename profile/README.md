@@ -52,7 +52,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 </td>
 <td width="50%" valign="top">
 
-### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->3.7k<!--/stars-->
+### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->3.8k<!--/stars-->
 
 **Programmatic video for coding agents** — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, **21 templates**, AI soundtrack. Apache-2.0, no per-render fees.
 
