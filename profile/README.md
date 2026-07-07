@@ -60,6 +60,18 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->0<!--/stars-->
+
+**The agentic motion layer** — describe the feeling, your AI ships the animation. Chat-native motion editing on **running HTML pages** (component by component) + a launch-video compositor with in-browser MP4 / GIF export, no watermark. **403 motion recipes**, 8 agent engines + BYOK, exports JSON / CSS / React / Lottie / MP4 / GIF.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ## Principles
@@ -76,6 +88,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 - **Add a skill** — drop a `SKILL.md` folder and open a PR on <a href="https://github.com/nexu-io/open-design">open-design</a> or <a href="https://github.com/nexu-io/html-anything">html-anything</a>.
 - **Add a design system** — drop a `DESIGN.md` folder and open a PR.
 - **Add a video template** — drop a template into <a href="https://github.com/nexu-io/html-video">html-video</a> and open a PR.
+- **Add a motion recipe** — drop a recipe folder into <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> and open a PR.
 
 Issues, PRs, and Discussions are open across every public repo.
 
