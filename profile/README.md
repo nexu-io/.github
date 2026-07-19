@@ -34,7 +34,7 @@ The **open-source alternative to Claude Design**. Local-first, web-deployable, B
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->7.8k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->7.9k<!--/stars-->
 
 The **agentic HTML editor** — your local AI agent writes the HTML, you ship it. **75 Skills × 9 Surfaces** (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes). Sandboxed preview, 1-click export to WeChat / X / Zhihu / HTML / PNG.
 
@@ -63,7 +63,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 <tr>
 <td width="50%" valign="top">
 
-### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->488<!--/stars-->
+### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->490<!--/stars-->
 
 **The agentic motion layer** — describe the feeling, your AI ships the animation. Chat-native motion editing on **running HTML pages** (component by component) + a launch-video compositor with in-browser MP4 / GIF export, no watermark. **403 motion recipes**, 8 agent engines + BYOK, exports JSON / CSS / React / Lottie / MP4 / GIF.
 
