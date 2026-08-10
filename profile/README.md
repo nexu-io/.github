@@ -45,7 +45,7 @@ Zero API key — runs on Claude Code / Cursor / Codex / Gemini / Copilot / OpenC
 <tr>
 <td width="50%" valign="top">
 
-### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.3k<!--/stars-->
+### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.2k<!--/stars-->
 
 The **open-source desktop client** that connects your AI Agent to **WeChat · Feishu · Slack · Discord** in one click. Works with OpenClaw, Claude Code, Codex, GLM, MiniMax. Double-click install, OAuth or BYOK, local-first — your data never leaves your machine, your agent is on your phone 24/7.
 
@@ -63,7 +63,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 <tr>
 <td width="50%" valign="top">
 
-### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->671<!--/stars-->
+### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->672<!--/stars-->
 
 **The agentic motion layer** — describe the feeling, your AI ships the animation. Chat-native motion editing on **running HTML pages** (component by component) + a launch-video compositor with in-browser MP4 / GIF export, no watermark. **403 motion recipes**, 8 agent engines + BYOK, exports JSON / CSS / React / Lottie / MP4 / GIF.
 
