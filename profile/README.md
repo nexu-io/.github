@@ -8,7 +8,7 @@
   <a href="https://open-design.ai">🌐 open-design.ai</a> &nbsp;·&nbsp;
   <a href="https://github.com/nexu-io/open-design">⭐ Star on GitHub</a> &nbsp;·&nbsp;
   <a href="https://x.com/nexudotio">𝕏 @nexudotio</a> &nbsp;·&nbsp;
-  <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c06v4df1-9676-4672-8c77-7a30eab76154">🇨🇳 飞书中文社区</a> &nbsp;·&nbsp;
+  <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c06v4df1-9676-4672-8c77-7a30eab76154">🇨🇳 Feishu Chinese Community / 飞书中文社区</a> &nbsp;·&nbsp;
   <a href="mailto:support@nexu.io">✉ support@nexu.io</a>
 </p>
 
