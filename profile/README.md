@@ -53,7 +53,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 </td>
 <td width="50%" valign="top">
 
-### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->4.3k<!--/stars-->
+### 🎬 <a href="https://github.com/nexu-io/html-video">html-video</a> · ⭐ <!--stars:nexu-io/html-video-->4.4k<!--/stars-->
 
 **Programmatic video for coding agents** — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, **21 templates**, AI soundtrack. Apache-2.0, no per-render fees.
 
@@ -64,7 +64,7 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 <tr>
 <td width="50%" valign="top">
 
-### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->697<!--/stars-->
+### 🌀 <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> · ⭐ <!--stars:nexu-io/motion-anything-->698<!--/stars-->
 
 **The agentic motion layer** — describe the feeling, your AI ships the animation. Chat-native motion editing on **running HTML pages** (component by component) + a launch-video compositor with in-browser MP4 / GIF export, no watermark. **403 motion recipes**, 8 agent engines + BYOK, exports JSON / CSS / React / Lottie / MP4 / GIF.
 
