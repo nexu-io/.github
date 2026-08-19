@@ -1,4 +1,4 @@
-<h1 align="center">Open Design</h1>
+<h1 align="center">OpenDesign</h1>
 
 <p align="center">
   <strong>The open-source alternative to Claude Design — local-first, BYOK, your agent ships real designs.</strong>
@@ -9,12 +9,12 @@
   <a href="https://github.com/nexu-io/open-design">⭐ Star on GitHub</a> &nbsp;·&nbsp;
   <a href="https://x.com/nexudotio">𝕏 @nexudotio</a> &nbsp;·&nbsp;
   <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c06v4df1-9676-4672-8c77-7a30eab76154">🇨🇳 Feishu Chinese Community / 飞书中文社区</a> &nbsp;·&nbsp;
-  <a href="mailto:support@nexu.io">✉ support@nexu.io</a>
+  <a href="mailto:support@open-design.ai">✉ support@open-design.ai</a>
 </p>
 
 ---
 
-## Why Open Design exists
+## Why OpenDesign exists
 
 The strongest coding agents already live on your laptop. **Claude Code, Codex, Cursor Agent, Gemini CLI, OpenCode, Qwen** — all real, all yours, all BYOK. The missing piece isn't another agent runtime. It's the **open-source surface area** that turns those raw CLIs into a coworker that ships designs, joins your IM, runs skills, and remembers what happened yesterday.
 
@@ -95,4 +95,4 @@ Issues, PRs, and Discussions are open across every public repo.
 
 ---
 
-<p align="center"><sub>Open Design — <i>next to you</i>, by your AI coworker.<br>Apache-2.0 / MIT &nbsp;·&nbsp; <a href="mailto:support@nexu.io">support@nexu.io</a></sub></p>
+<p align="center"><sub>OpenDesign — <i>next to you</i>, by your AI coworker.<br>Apache-2.0 / MIT &nbsp;·&nbsp; <a href="mailto:support@open-design.ai">support@open-design.ai</a></sub></p>
