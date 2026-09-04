@@ -26,7 +26,7 @@ That is what we build. Local-first, web-deployable, BYOK at every layer. **Apach
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->93.9k<!--/stars-->
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->94k<!--/stars-->
 
 The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **259+ composable Skills** + **142+ brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
 
@@ -35,7 +35,7 @@ The **open-source alternative to Claude Design**. Local-first, web-deployable, B
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->8.6k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->8.7k<!--/stars-->
 
 The **agentic HTML editor** — your local AI agent writes the HTML, you ship it. **75 Skills × 9 Surfaces** (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes). Sandboxed preview, 1-click export to WeChat / X / Zhihu / HTML / PNG.
 
