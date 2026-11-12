@@ -26,7 +26,7 @@ Our open-source projects extend that workflow: **openmotion** recreates, edits, 
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->107.3k<!--/stars-->
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->107.4k<!--/stars-->
 
 The **1st Collaborative AI Design Agent Workspace**. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents.
 
@@ -35,7 +35,7 @@ Share work, exchange feedback, and iterate together in one workspace. Start with
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/openmotion">openmotion</a> · ⭐ <!--stars:nexu-io/openmotion-->9.6k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/openmotion">openmotion</a> · ⭐ <!--stars:nexu-io/openmotion-->9.7k<!--/stars-->
 
 The **open-source full-stack studio for Opus 5.5 motion video**. **Reverse engineering for any video.** Code video with HTML: recreate, edit, and render. Bring a reference video or social video link, then adapt it with your own brand kit and copy.
 
