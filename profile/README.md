@@ -1,13 +1,13 @@
 <h1 align="center">OpenDesign</h1>
 
 <p align="center">
-  <strong>The open-source alternative to Claude Design — local-first, BYOK, your agent ships real designs.</strong>
+  <strong>The 1st Collaborative AI Design Agent Workspace — local-first and open source.</strong>
 </p>
 
 <p align="center">
   <a href="https://open-design.ai">🌐 open-design.ai</a> &nbsp;·&nbsp;
   <a href="https://github.com/nexu-io/open-design">⭐ Star on GitHub</a> &nbsp;·&nbsp;
-  <a href="https://x.com/nexudotio">𝕏 @nexudotio</a> &nbsp;·&nbsp;
+  <a href="https://x.com/OpenDesignHQ">𝕏 @OpenDesignHQ</a> &nbsp;·&nbsp;
   <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c06v4df1-9676-4672-8c77-7a30eab76154">🇨🇳 Feishu Chinese Community / 飞书中文社区</a> &nbsp;·&nbsp;
   <a href="mailto:support@open-design.ai">✉ support@open-design.ai</a>
 </p>
@@ -16,9 +16,9 @@
 
 ## Why OpenDesign exists
 
-The strongest coding agents already live on your laptop. **Claude Code, Codex, Cursor Agent, Gemini CLI, OpenCode, Qwen** — all real, all yours, all BYOK. The missing piece isn't another agent runtime. It's the **open-source surface area** that turns those raw CLIs into a coworker that ships designs, joins your IM, runs skills, and remembers what happened yesterday.
+Great design takes a team and a shared place to work. **OpenDesign** brings people and AI agents into one workspace to create motion, prototypes, websites, apps, dashboards, presentations, images, and videos. Share work, exchange feedback, and iterate together in the same project.
 
-That is what we build. Local-first, web-deployable, BYOK at every layer. **Apache-2.0 / MIT**, no telemetry, no lock-in.
+Our open-source projects extend that workflow: **openmotion** recreates, edits, and renders video with your own agents and keys; **nexu** connects your agent to the messaging tools you use. Local-first, with **Apache-2.0 / MIT** projects you can inspect and adapt.
 
 ## What we ship
 
@@ -26,20 +26,22 @@ That is what we build. Local-first, web-deployable, BYOK at every layer. **Apach
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->107.2k<!--/stars-->
+### 🎨 <a href="https://github.com/nexu-io/open-design">open-design</a> · ⭐ <!--stars:nexu-io/open-design-->107.3k<!--/stars-->
 
-The **open-source alternative to Claude Design**. Local-first, web-deployable, BYOK. **259+ composable Skills** + **142+ brand-grade Design Systems**. Drives Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen as the design engine.
+The **1st Collaborative AI Design Agent Workspace**. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents.
 
-`pnpm dev:all` &rarr; magazine deck, mobile prototype, dashboard, docs page — sandboxed iframe preview, exported as HTML / PDF / PPTX / ZIP.
+Share work, exchange feedback, and iterate together in one workspace. Start with your coding agent or <a href="https://open-design.ai/cloud/">OpenDesign Cloud</a>, and build on skills, design templates, design systems, and plugins.
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/html-anything">html-anything</a> · ⭐ <!--stars:nexu-io/html-anything-->9.5k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/openmotion">openmotion</a> · ⭐ <!--stars:nexu-io/openmotion-->9.6k<!--/stars-->
 
-The **agentic HTML editor** — your local AI agent writes the HTML, you ship it. **75 Skills × 9 Surfaces** (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes). Sandboxed preview, 1-click export to WeChat / X / Zhihu / HTML / PNG.
+The **open-source full-stack studio for Opus 5.5 motion video**. **Reverse engineering for any video.** Code video with HTML: recreate, edit, and render. Bring a reference video or social video link, then adapt it with your own brand kit and copy.
 
-Zero API key — runs on Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+**BYOA + BYOK · Motion.md · Images, Video, Music & Voice.** Edit timing in Studio and render an MP4 from the same project.
+
+🌐 <a href="https://open-design.ai/motion/">open-design.ai/motion</a>
 
 </td>
 </tr>
@@ -48,7 +50,7 @@ Zero API key — runs on Claude Code / Cursor / Codex / Gemini / Copilot / OpenC
 
 ### 🦞 <a href="https://github.com/nexu-io/nexu">nexu</a> · ⭐ <!--stars:nexu-io/nexu-->3.3k<!--/stars-->
 
-The **open-source desktop client** that connects your AI Agent to **WeChat · Feishu · Slack · Discord** in one click. Works with OpenClaw, Claude Code, Codex, GLM, MiniMax. Double-click install, OAuth or BYOK, local-first — your data never leaves your machine, your agent is on your phone 24/7.
+The **simplest desktop client for OpenClaw** — bridge your agent to **WeChat · Feishu · Slack · Discord** in one click. Works with Claude Code, Codex, and any LLM. BYOK, OAuth, local-first — chat from your phone 24/7.
 
 </td>
 <td width="50%" valign="top">
@@ -78,15 +80,15 @@ The **open-source desktop client** that connects your AI Agent to **WeChat · Fe
 ## Principles
 
 - **Bring your own agent.** We don't ship a model. The strongest agents already live on your laptop.
-- **Open by default.** Apache-2.0 / MIT across the stack. No locked surface, no telemetry.
+- **Open by default.** Apache-2.0 / MIT projects with source you can inspect and adapt.
 - **Local-first.** Your projects, conversations, and IM bridges run on your machine first, cloud second.
-- **Skills are files, not plugins.** Drop a folder, restart, it works. The <a href="https://docs.anthropic.com/en/docs/claude-code/skills"><code>SKILL.md</code></a> convention, end of story.
+- **Extend your workflow.** Reuse and contribute skills, design templates, design systems, and plugins.
 - **Design Systems are portable Markdown, not theme JSON.** The 9-section <a href="https://github.com/VoltAgent/awesome-design-md"><code>DESIGN.md</code></a> schema.
 
 ## Get involved
 
 - **Star the projects** that resonate — cheapest, loudest signal.
-- **Add a skill** — drop a `SKILL.md` folder and open a PR on <a href="https://github.com/nexu-io/open-design">open-design</a> or <a href="https://github.com/nexu-io/html-anything">html-anything</a>.
+- **Add a skill** — contribute a `SKILL.md` folder to <a href="https://github.com/nexu-io/open-design">open-design</a> or <a href="https://github.com/nexu-io/openmotion">openmotion</a>.
 - **Add a design system** — drop a `DESIGN.md` folder and open a PR.
 - **Add a video template** — drop a template into <a href="https://github.com/nexu-io/html-video">html-video</a> and open a PR.
 - **Add a motion recipe** — drop a recipe folder into <a href="https://github.com/nexu-io/motion-anything">motion-anything</a> and open a PR.
