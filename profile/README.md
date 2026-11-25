@@ -14,11 +14,32 @@
 
 ---
 
+## 🎮 Featured: OpenGame
+
+<p align="center">
+  <a href="https://github.com/nexu-io/opengame">
+    <img src="https://raw.githubusercontent.com/nexu-io/opengame/main/docs/readme/opengame-hero.webp" alt="OpenGame — The Open-Source Super Game Agent. Remix, re-style, and build playable games with your own AI agent." width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>The First Super Game Agent — Open-Source Full-Stack AI Game Studio.</strong><br>
+  Start with an idea or a playable template. Remix the mechanics, re-style the world, and make the game your own.
+</p>
+
+<p align="center">
+  <a href="https://github.com/nexu-io/opengame">🎮 Explore OpenGame</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nexu-io/opengame#quick-start">🚀 Get started</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nexu-io/opengame#showcase">🕹️ Playable templates</a>
+</p>
+
+---
+
 ## Why OpenDesign exists
 
 Great design takes a team and a shared place to work. **OpenDesign** brings people and AI agents into one workspace to create motion, prototypes, websites, apps, dashboards, presentations, images, and videos. Share work, exchange feedback, and iterate together in the same project.
 
-Our open-source projects extend that workflow: **openmotion** recreates, edits, and renders video with your own agents and keys; **nexu** connects your agent to the messaging tools you use. Local-first, with **Apache-2.0 / MIT** projects you can inspect and adapt.
+Our open-source projects extend that workflow: **opengame** turns ideas and playable templates into games you can remix and make your own; **openmotion** recreates, edits, and renders video with your own agents and keys; **nexu** connects your agent to the messaging tools you use. Local-first, with **Apache-2.0 / MIT** projects you can inspect and adapt.
 
 ## What we ship
 
@@ -73,6 +94,14 @@ The **simplest desktop client for OpenClaw** — bridge your agent to **WeChat �
 </td>
 <td width="50%" valign="top">
 
+### 🎮 <a href="https://github.com/nexu-io/opengame">opengame</a> · ⭐ <!--stars:nexu-io/opengame-->0<!--/stars-->
+
+The **First Super Game Agent** — an **open-source full-stack AI game studio**. Start with a prompt or an editable game template, then remix the mechanics, characters, art, and audio.
+
+**BYOA + BYOK · Playable templates · Game Studio.** Build, preview, and play-test games with your local coding agent and your own model keys.
+
+🚀 <a href="https://github.com/nexu-io/opengame#quick-start">Get started with OpenGame</a>
+
 </td>
 </tr>
 </table>
@@ -88,6 +117,7 @@ The **simplest desktop client for OpenClaw** — bridge your agent to **WeChat �
 ## Get involved
 
 - **Star the projects** that resonate — cheapest, loudest signal.
+- **Remix a game** — explore the playable templates in <a href="https://github.com/nexu-io/opengame">opengame</a>, then contribute an improvement or a game of your own.
 - **Add a skill** — contribute a `SKILL.md` folder to <a href="https://github.com/nexu-io/open-design">open-design</a> or <a href="https://github.com/nexu-io/openmotion">openmotion</a>.
 - **Add a design system** — drop a `DESIGN.md` folder and open a PR.
 - **Add a video template** — drop a template into <a href="https://github.com/nexu-io/html-video">html-video</a> and open a PR.
