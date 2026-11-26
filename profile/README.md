@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/nexu-io/opengame">OpenGame</a></strong> · ⭐ <!--stars:nexu-io/opengame-->5<!--/stars--> — <strong>The Super Game Agent</strong>, the Unity &amp; Unreal for AI agents, with <strong>100+ viral games to remix</strong>.<br>
+  <strong><a href="https://github.com/nexu-io/opengame">OpenGame</a></strong> — <strong>The Super Game Agent</strong>, the Unity &amp; Unreal for AI agents, with <strong>100+ viral games to remix</strong>.<br>
   Turn <strong>20+ coding agents</strong> (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D &amp; mini-games to <strong>WeChat, Douyin, TikTok, Telegram, itch.io</strong>, and more.
 </p>
 
@@ -56,7 +56,7 @@ Share work, exchange feedback, and iterate together in one workspace. Start with
 </td>
 <td width="50%" valign="top">
 
-### 🎮 <a href="https://github.com/nexu-io/opengame">opengame</a> · ⭐ <!--stars:nexu-io/opengame-->5<!--/stars-->
+### 🎮 <a href="https://github.com/nexu-io/opengame">opengame</a>
 
 **The Super Game Agent** — the Unity &amp; Unreal for AI agents, with **100+ viral games to remix**. Turn **20+ coding agents** (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio.
 
