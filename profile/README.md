@@ -67,7 +67,7 @@ Build and publish **3D &amp; mini-games** to **WeChat, Douyin, TikTok, Telegram,
 <tr>
 <td width="50%" valign="top">
 
-### ✨ <a href="https://github.com/nexu-io/openmotion">openmotion</a> · ⭐ <!--stars:nexu-io/openmotion-->16.9k<!--/stars-->
+### ✨ <a href="https://github.com/nexu-io/openmotion">openmotion</a> · ⭐ <!--stars:nexu-io/openmotion-->17k<!--/stars-->
 
 The **open-source full-stack studio for Opus 5.5 motion video**. **Reverse engineering for any video.** Code video with HTML: recreate, edit, and render. Bring a reference video or social video link, then adapt it with your own brand kit and copy.
 
